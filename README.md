@@ -17,4 +17,5 @@ gatsby serve
 - Click on link `Go to article WITHOUT no unicode issue`
   - Notice page is displayed properly
 - Go back to home page and click on link `Go to article WITH unicode issue`
-  - Notice you hit the 404 page
+  - Notice it works like a charm !
+

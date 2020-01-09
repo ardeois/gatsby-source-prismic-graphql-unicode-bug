@@ -28,7 +28,7 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-source-prismic-graphql",
+      resolve: "@landr/gatsby-source-prismic-graphql",
       options: {
         repositoryName: "unicodebug", // (required)
         pages: [
